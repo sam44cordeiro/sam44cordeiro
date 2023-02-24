@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam44cordeiro&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam44cordeiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="center" alt="Sam-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam44cordeiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
